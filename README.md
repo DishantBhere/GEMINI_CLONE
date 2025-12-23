@@ -75,7 +75,7 @@ Upload any image:
     | Frontend  | HTML, CSS, JavaScript   |
     | Hosting   | Cloudflare Pages        |
     | Backend   | Cloudflare Worker       |
-    | AI        | Google Gemini 2.0 Flash |
+    | AI        | GROQ_Model
     | Image Gen | Pollinations AI         |
 
 ### 🔮 Future Upgrades
